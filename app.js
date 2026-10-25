@@ -12,4 +12,4 @@ Reactroot.render(div1);
 /*<div>
     <h1>Hellow coder army</h1>
     <h2>Maja aaya muje </h2>
-</div>*/
+</div>*/ 
